@@ -9,4 +9,4 @@ watch tutorial on Youtube.
 
 1. Open git.html in your bows
 
-2. Open readme now
+2. Open readme now , cc gi vay anh ban
